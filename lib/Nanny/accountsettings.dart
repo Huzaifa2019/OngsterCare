@@ -124,9 +124,9 @@ class AccountSettingsState extends State<AccountSettings> {
                               decoration: InputDecoration(
                                   border: new OutlineInputBorder(
                                       borderSide:
-                                          new BorderSide(color: Colors.black)),
+                                          new BorderSide(color: Colors.black),),
                                   labelStyle:
-                                      TextStyle(color: Colors.grey[400])),
+                                      TextStyle(color: Colors.grey[400]),),
                             ),
                           ],
                         ),
@@ -161,8 +161,8 @@ class AccountSettingsState extends State<AccountSettings> {
                                 color: Color(0xffF4A7AF)),
                             border: new OutlineInputBorder(
                                 borderSide:
-                                    new BorderSide(color: Colors.black)),
-                            labelStyle: TextStyle(color: Colors.grey[400])),
+                                    new BorderSide(color: Colors.black),),
+                            labelStyle: TextStyle(color: Colors.grey[400]),),
                       ),
                     ],
                   ),
